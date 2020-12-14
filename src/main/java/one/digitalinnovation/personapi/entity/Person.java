@@ -1,6 +1,5 @@
 package one.digitalinnovation.personapi.entity;
 
-import com.fasterxml.jackson.datatype.jsr310.deser.LocalDateDeserializer;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
